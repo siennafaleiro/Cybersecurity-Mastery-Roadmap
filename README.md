@@ -1,7 +1,7 @@
 # 🛡️ Ultimate Cybersecurity Mastery Roadmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity-banner.png" alt="Cybersecurity Roadmap Banner" width="800">
+  <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity_roadmap.png" alt="Cybersecurity Roadmap Banner" width="800">
 </p>
 
 > **A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance**
@@ -25,7 +25,6 @@
 - [Cybersecurity Labs and Practice Environments](#cybersecurity-labs-and-practice-environments)
 - [Security Research Resources](#security-research-resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -44,10 +43,6 @@ This roadmap is divided into phases, each building upon the previous one. For ea
 - **Tools**: Relevant tools to practice with
 
 Progress through each phase sequentially, but feel free to dive deeper into topics that interest you or are relevant to your career goals. Remember that practical experience is crucial in cybersecurity, so make sure to supplement your theoretical knowledge with hands-on practice.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity_roadmap.png" alt="Learning Methodology" width="600">
-</p>
 
 ## Roadmap Overview
 
@@ -1409,10 +1404,6 @@ Contributions to this roadmap are welcome! Please feel free to submit a pull req
 3. Commit your changes (`git commit -m 'Add some amazing contribution'`)
 4. Push to the branch (`git push origin feature/amazing-contribution`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
