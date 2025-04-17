@@ -108,7 +108,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - **Linux Fundamentals**
   - [Linux Journey](https://linuxjourney.com/)
-  - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+  - [Linux Command Line Basics](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
   - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
   - [Linux Survival](https://linuxsurvival.com/)
   - [Linux From Scratch](https://www.linuxfromscratch.org/)
@@ -179,7 +179,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **Security Tool Fundamentals**
   - [SANS SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling](https://www.sans.org/cyber-security-courses/hacker-techniques-exploits-incident-handling/)
   - [Black Hills Information Security Webcast](https://www.blackhillsinfosec.com/blog/webcasts/)
-  - [Cybrary Open Source Intelligence](https://www.cybrary.it/course/open-source-intelligence/)
+  - [Cybrary Open Source Intelligence](https://www.cybrary.it/practice-lab/perform-open-source-intelligence)
   - **Books**:
     - "Hacking: The Art of Exploitation" by Jon Erickson
     - "The Hacker Playbook 3" by Peter Kim
@@ -214,9 +214,8 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - **Network Protocols & Security**
   - [Professor Messer Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-training-course/)
-  - [Practical Packet Analysis](https://nostarch.com/packet3)
   - [SANS SEC560: Network Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/network-penetration-testing-ethical-hacking/)
-  - [Cybrary Network Security](https://www.cybrary.it/course/network-security/)
+  - [Cybrary Network Security](https://www.cybrary.it/course/cyber-network-security)
   - **Books**:
     - "Network Security Essentials" by William Stallings
     - "Practical Packet Analysis" by Chris Sanders
@@ -233,10 +232,10 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Configure network security monitoring
 
 - **Firewalls & IDS/IPS**
-  - [pfSense Fundamentals](https://www.netgate.com/training/pfsense-fundamentals)
-  - [Snort IDS Fundamentals](https://www.youtube.com/watch?v=W1pKUOKS0aM)
+  - [pfSense Fundamentals](https://www.netgate.com/training/pfsense-fundamentals-and-advanced-application)
+  - [Snort IDS Fundamentals](https://iritt.medium.com/ids-fundamentals-cyber-security-101-security-solutions-tryhackme-walkthrough-23edba97cfa3)
   - [Suricata IDS/IPS](https://suricata.io/)
-  - [Cisco Firewall Configuration](https://www.cisco.com/c/en/us/td/docs/security/firepower/quick_start/5500X/ftd-55xx-qsg.html)
+  - [Cisco Firewall Configuration](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/security/how-to-setup-a-firewall.html)
   - **Books**:
     - "Practical Intrusion Analysis" by Ryan Trost
     - "The Practice of Network Security Monitoring" by Richard Bejtlich
@@ -255,7 +254,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **VPN & Secure Communications**
   - [OpenVPN Setup Guide](https://openvpn.net/community-resources/how-to/)
   - [WireGuard VPN Tutorial](https://www.wireguard.com/quickstart/)
-  - [IPsec VPN Configuration](https://www.cisco.com/c/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/116055-technote-ios-00.html)
+  - [IPsec VPN Configuration](https://www.cisco.com/c/en/us/support/docs/routers/1700-series-modular-access-routers/71462-rtr-l2l-ipsec-split.html)
   - [SSL/TLS Deep Dive](https://www.feistyduck.com/library/openssl-cookbook/)
   - **Books**:
     - "VPNs Illustrated: Tunnels, VPNs, and IPsec" by Jon C. Snader
@@ -274,16 +273,16 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 ### 5. System Security
 
 - **Operating System Security**
-  - [Windows Security Fundamentals](https://docs.microsoft.com/en-us/learn/paths/windows-security-fundamentals/)
-  - [Linux Security Fundamentals](https://training.linuxfoundation.org/training/linux-security-fundamentals/)
+  - [Windows Security Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
+  - [Linux Security Fundamentals](https://www.udemy.com/course/linux-security-fundamentals/?srsltid=AfmBOopLV9Q8LTu-wp-oVIfdZGQsfKXtfOMFtL3M9BsnM1lUoptqTaPT&couponCode=KEEPLEARNING)
   - [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-  - [SANS SEC505: Securing Windows](https://www.sans.org/cyber-security-courses/securing-windows-powershell-automation/)
+  - [SANS SEC505: Securing Windows](https://www.cybersecuritycourses.com/course/sec505-securing-windows-and-powershell-automation/)
   - **Books**:
     - "Windows Internals" by Mark Russinovich
     - "Linux Security Cookbook" by Daniel J. Barrett
     - "macOS and iOS Internals" by Jonathan Levin
   - **Tools**:
-    - [Microsoft Baseline Security Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=7558)
+    - [Microsoft Baseline Security Analyzer](https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/mbsa-removal-and-guidance)
     - [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux
     - [OpenSCAP](https://www.open-scap.org/) - Security compliance solution
     - [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/)
@@ -294,7 +293,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Configure secure authentication mechanisms
 
 - **Endpoint Protection**
-  - [SANS SEC505: Securing Windows](https://www.sans.org/cyber-security-courses/securing-windows-powershell-automation/)
+  - [SANS SEC505: Securing Windows](https://www.cybersecuritycourses.com/course/sec505-securing-windows-and-powershell-automation/)
   - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
   - [Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/)
   - [Endpoint Detection and Response (EDR)](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/)
@@ -374,7 +373,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Participate in bug bounty programs
 
 - **Secure Coding Practices**
-  - [Secure Coding in Python](https://cheatsheetseries.owasp.org/cheatsheets/Python_Security_Cheat_Sheet.html)
+  - [Secure Coding in Python](https://github.com/Ericsson/secure_coding_one_stop_shop_for_python)
   - [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
   - [Secure Coding in Java](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
   - [Microsoft Secure Coding Guidelines](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms182020(v=vs.100))
@@ -421,7 +420,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **Exploitation Techniques**
   - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
   - [OSCP Preparation Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)
-  - [Exploit Development](https://www.corelan.be/index.php/articles/)
+  - [Exploit Development](https://github.com/wtsxDev/Exploit-Development)
   - [Buffer Overflow Tutorial](https://www.youtube.com/watch?v=1S0aBV-Waeo)
   - **Books**:
     - "The Shellcoder's Handbook" by Chris Anley
@@ -441,8 +440,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **Social Engineering**
   - [Social Engineering: The Science of Human Hacking](https://www.social-engineer.org/)
   - [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
-  - [Phishing Campaigns](https://www.social-engineer.com/services/social-engineering-phishing-service/)
-  - [SANS SEC567: Social Engineering for Penetration Testers](https://www.sans.org/cyber-security-courses/social-engineering-penetration-testers/)
+  - [SANS SEC567: Social Engineering for Penetration Testers](https://www.sans.org/cyber-security-courses/social-engineering-security/)
   - **Books**:
     - "Social Engineering: The Art of Human Hacking" by Christopher Hadnagy
     - "Phishing Dark Waters" by Christopher Hadnagy and Michele Fincher
@@ -461,10 +459,10 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 ### 8. Defensive Security
 
 - **Security Operations Center (SOC)**
-  - [SOC Analyst Learning Path](https://www.splunk.com/training/learning-path/security-operations-center-analyst.html)
+  - [SOC Analyst Learning Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
   - [Blue Team Labs Online](https://blueteamlabs.online/)
-  - [SANS SEC450: Blue Team Fundamentals](https://www.sans.org/cyber-security-courses/blue-team-fundamentals/)
-  - [Cybrary SOC Analyst](https://www.cybrary.it/course/soc-analyst/)
+  - [SANS SEC450: Blue Team Fundamentals](https://www.sans.org/cyber-security-courses/blue-team-fundamentals-security-operations-analysis/)
+  - [Cybrary SOC Analyst](https://www.cybrary.it/career-path/soc-analyst)
   - **Books**:
     - "Blue Team Handbook: SOC, SIEM, and Threat Hunting" by Don Murdoch
     - "Security Operations Center: Building, Operating, and Maintaining your SOC" by Joseph Muniz
@@ -502,8 +500,8 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - **Digital Forensics**
   - [SANS FOR500: Windows Forensic Analysis](https://www.sans.org/cyber-security-courses/windows-forensic-analysis/)
-  - [Digital Forensics Framework](https://www.osforensics.com/tools.html)
-  - [Computer Forensics Tutorial](https://www.tutorialspoint.com/computer_forensics/index.htm)
+  - [Digital Forensics Framework](https://github.com/arxsys/dff)
+  - [Computer Forensics Tutorial](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?srsltid=AfmBOoq91fIkp7eYQunGBGJV6SW4KWgg8aj-rmXTlcuUVp05GZT3s4aM)
   - [NIST Computer Forensics Tools and Techniques Catalog](https://toolcatalog.nist.gov/)
   - **Books**:
     - "File System Forensic Analysis" by Brian Carrier
@@ -511,7 +509,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - "Windows Forensic Analysis Toolkit" by Harlan Carvey
   - **Tools**:
     - [Autopsy](https://www.autopsy.com/) - Digital forensics platform
-    - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-5) - Forensic imaging tool
+    - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - Forensic imaging tool
     - [Volatility](https://www.volatilityfoundation.org/) - Memory forensics framework
     - [Sleuth Kit](https://www.sleuthkit.org/) - Disk analysis tools
   - **Practical Exercises**:
@@ -524,7 +522,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - **Cloud Security Fundamentals**
   - [AWS Security Fundamentals](https://aws.amazon.com/training/course-descriptions/security-fundamentals/)
-  - [Azure Security Technologies](https://docs.microsoft.com/en-us/learn/paths/az-500-manage-security-operations/)
+  - [Azure Security Technologies](https://learn.microsoft.com/en-us/training/courses/az-500t00)
   - [Google Cloud Security](https://cloud.google.com/security/)
   - [Cloud Security Alliance Courses](https://cloudsecurityalliance.org/education/)
   - [IBM Cloud Security](https://www.ibm.com/cloud/learn/cloud-security)
@@ -534,9 +532,9 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - "AWS Security" by Dylan Shields
   - **Tools**:
     - [AWS Security Hub](https://aws.amazon.com/security-hub/)
-    - [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
+    - [Azure Security Center](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft.azuresecuritycenter?tab=overview)
     - [Google Cloud Security Command Center](https://cloud.google.com/security-command-center)
-    - [CloudSploit](https://cloudsploit.com/) - Cloud security scanner
+    - [CloudSploit](https://github.com/aquasecurity/cloudsploit) - Cloud security scanner
   - **Practical Exercises**:
     - Set up secure cloud infrastructure
     - Implement identity and access management
@@ -628,7 +626,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [APT Groups and Operations](https://apt.threattracking.com/)
   - [Mandiant APT Reports](https://www.mandiant.com/resources/insights/reports)
   - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)
-  - [ThaiCERT APT Encyclopedia](https://www.thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf)
+  - [ThaiCERT APT Encyclopedia](https://apt.etda.or.th/cgi-bin/aptgroups.cgi)
   - **Books**:
     - "Advanced Persistent Threat Hacking" by Tyler Wrightson
     - "APT41: A Dual Espionage and Cyber Crime Operation" by FireEye
@@ -647,7 +645,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **IoT Security**
   - [OWASP IoT Security](https://owasp.org/www-project-internet-of-things/)
   - [IoT Security Foundation](https://www.iotsecurityfoundation.org/)
-  - [NIST IoT Security](https://www.nist.gov/programs-projects/nist-cybersecurity-iot-program)
+  - [NIST IoT Security](https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program)
   - [IoT Security Guidelines](https://www.gsma.com/iot/iot-security/iot-security-guidelines/)
   - **Books**:
     - "Practical IoT Hacking" by Fotios Chantzis et al.
@@ -687,7 +685,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [ICS-CERT Training](https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT)
   - [SANS ICS410: ICS/SCADA Security Essentials](https://www.sans.org/cyber-security-courses/ics-scada-cyber-security-essentials/)
   - [NIST SP 800-82: Guide to ICS Security](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final)
-  - [ISA/IEC 62443 Standards](https://www.isa.org/standards-and-publications/isa-iec-62443-series-of-standards)
+  - [ISA/IEC 62443 Standards](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards)
   - **Books**:
     - "Industrial Network Security" by Eric D. Knapp and Joel Thomas Langill
     - "Hacking Exposed Industrial Control Systems" by Clint Bodungen et al.
@@ -735,8 +733,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Cybersecurity Meetups](https://www.meetup.com/topics/cybersecurity/)
   - [Women in Cybersecurity (WiCyS)](https://www.wicys.org/)
   - **Resources**:
-    - [Networking for Cybersecurity Professionals](https://www.cybersecuritymastersdegree.org/networking-for-cybersecurity-professionals/)
-    - [Building Your Cybersecurity Network](https://www.sans.org/blog/building-your-cybersecurity-network/)
+    - [Building Your Cybersecurity Network](https://cybersecurityguide.org/resources/career-networking-guide/)
   - **Practical Exercises**:
     - Join cybersecurity communities and forums
     - Attend local meetups and conferences
@@ -745,15 +742,15 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Create and share cybersecurity content
 
 - **Continuous Learning**
-  - [Cybersecurity Podcasts](https://digitalguardian.com/blog/best-cybersecurity-podcasts)
-  - [Security Research Blogs](https://github.com/Hack-with-Github/Awesome-Hacking#blogs)
+  - [Cybersecurity Podcasts](https://nordlayer.com/blog/cybersecurity-podcasts-to-check-out/)
+  - [Security Research Blogs](https://www.akamai.com/blog/security-research)
   - [Academic Journals](https://www.scimagojr.com/journalrank.php?category=1712)
-  - [Security Newsletters](https://securityboulevard.com/security-newsletters/)
+  - [Security Newsletters](https://www.sans.org/newsletters/)
   - [GitHub Security Repositories](https://github.com/topics/security)
   - **Resources**:
     - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-    - [Cybersecurity Canon](https://www.paloaltonetworks.com/cyberpedia/cybersecurity-canon)
-    - [Cybersecurity Learning Paths](https://www.cybrary.it/catalog/career-path/)
+    - [Cybersecurity Canon](https://icdt.osu.edu/cybercanon/bookreviews)
+    - [Cybersecurity Learning Paths](https://tryhackme.com/paths)
   - **Practical Exercises**:
     - Subscribe to security newsletters and podcasts
     - Follow security researchers on social media
@@ -813,8 +810,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Coursera Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/security) - University-level courses
   - [SANS Cyber Aces](https://www.cyberaces.org/) - Free online courses
   - [Offensive Security](https://www.offensive-security.com/) - Professional penetration testing training
-  - [eLearnSecurity](https://elearnsecurity.com/) - Practical security training
-  - [INE Security](https://ine.com/pages/cybersecurity) - Cybersecurity training
+  - [INE Security](https://security.ine.com/) - Cybersecurity training
   - [PentesterLab](https://pentesterlab.com/) - Web penetration testing exercises
   - [RangeForce](https://www.rangeforce.com/) - Hands-on cybersecurity training
   - [Pluralsight](https://www.pluralsight.com/browse/information-cyber-security) - IT and security courses
@@ -832,7 +828,6 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Hacker101 CTF](https://ctf.hacker101.com/) - CTF challenges by HackerOne
   - [CryptoHack](https://cryptohack.org/) - Cryptography challenges
   - [OverTheWire](https://overthewire.org/wargames/) - Security wargames
-  - [Exploit Exercises](https://exploit-exercises.lains.space/) - Exploit development exercises
 
 ### YouTube Channels
 
@@ -861,7 +856,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web reconnaissance framework
 - [theHarvester](https://github.com/laramies/theHarvester) - Email, subdomain and name harvester
 - [Maltego](https://www.maltego.com/) - Open source intelligence and forensics
-- [SpiderFoot](https://www.spiderfoot.net/) - OSINT automation tool
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - OSINT automation tool
 - [Amass](https://github.com/OWASP/Amass) - In-depth attack surface mapping and asset discovery
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain enumeration tool
 - [OWASP Maryam](https://github.com/saeeddhqan/Maryam) - Open-source intelligence framework
@@ -900,7 +895,6 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [Pupy](https://github.com/n1nj4sec/pupy) - Cross-platform remote administration and post-exploitation tool
 - [Covenant](https://github.com/cobbr/Covenant) - .NET command and control framework
 - [Sliver](https://github.com/BishopFox/sliver) - Cross-platform adversary emulation framework
-- [Koadic](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
 
 ### Password Attacks
 
@@ -908,7 +902,6 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [John the Ripper](https://www.openwall.com/john/) - Password cracking tool
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Login cracker
 - [Aircrack-ng](https://www.aircrack-ng.org/) - WiFi security auditing tools suite
-- [Cain & Abel](https://web.archive.org/web/20190717125227/http://www.oxid.it/cain.html) - Password recovery tool
 - [Medusa](https://github.com/jmk-foofus/medusa) - Parallel network login auditor
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - Post-exploitation tool
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - Windows credential dumping
@@ -959,7 +952,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [QARK](https://github.com/linkedin/qark) - Android app vulnerability scanner
 - [idb](https://github.com/dmayer/idb) - iOS app security assessment tool
 - [Needle](https://github.com/FSecureLABS/needle) - iOS security testing framework
-- [Apktool](https://ibotpeaches.github.io/Apktool/) - Android APK reverse engineering
+- [Apktool](https://apktool.org/) - Android APK reverse engineering
 - [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
 ### OSINT Tools
@@ -1105,35 +1098,30 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Skills Required**: Network security, security tools, vulnerability assessment, incident response
   - **Certifications**: CompTIA Security+, CySA+, GIAC GSEC
   - **Career Progression**: Senior Security Analyst → Security Engineer → Security Architect
-  - **Average Salary Range**: $70,000 - $100,000
 
 - **Security Engineer**
   - **Responsibilities**: Design and implement security solutions, manage security infrastructure, conduct security assessments
   - **Skills Required**: Network security, security architecture, security tools, scripting
   - **Certifications**: CISSP, GIAC GSEC, CEH
   - **Career Progression**: Senior Security Engineer → Security Architect → CISO
-  - **Average Salary Range**: $90,000 - $130,000
 
 - **SOC Analyst**
   - **Responsibilities**: Monitor security events, analyze alerts, respond to incidents, maintain security tools
   - **Skills Required**: SIEM tools, incident response, network security, log analysis
   - **Certifications**: CompTIA Security+, CySA+, GCIH
   - **Career Progression**: SOC Analyst Level 2 → SOC Analyst Level 3 → SOC Manager
-  - **Average Salary Range**: $65,000 - $95,000
 
 - **Incident Responder**
   - **Responsibilities**: Investigate and remediate security incidents, develop incident response plans, conduct forensic analysis
   - **Skills Required**: Digital forensics, malware analysis, incident response, threat hunting
   - **Certifications**: GCIH, GCFA, GREM
   - **Career Progression**: Senior Incident Responder → Incident Response Manager → Security Director
-  - **Average Salary Range**: $80,000 - $120,000
 
 - **Security Architect**
   - **Responsibilities**: Design secure systems and networks, develop security standards, evaluate security solutions
   - **Skills Required**: Security architecture, risk assessment, compliance, technical leadership
   - **Certifications**: CISSP, CISM, SABSA
   - **Career Progression**: Senior Security Architect → Security Director → CISO
-  - **Average Salary Range**: $120,000 - $160,000
 
 ### Offensive Roles
 
@@ -1142,28 +1130,24 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Skills Required**: Ethical hacking, exploitation, scripting, report writing
   - **Certifications**: OSCP, CEH, PenTest+
   - **Career Progression**: Senior Penetration Tester → Red Team Lead → Security Consultant
-  - **Average Salary Range**: $80,000 - $130,000
 
 - **Red Team Operator**
   - **Responsibilities**: Simulate advanced adversaries to test defenses, develop custom tools, conduct long-term engagements
   - **Skills Required**: Advanced exploitation, social engineering, evasion techniques, custom tool development
   - **Certifications**: OSCP, OSCE, GXPN
   - **Career Progression**: Senior Red Team Operator → Red Team Lead → Director of Offensive Security
-  - **Average Salary Range**: $100,000 - $150,000
 
 - **Vulnerability Researcher**
   - **Responsibilities**: Discover and analyze new vulnerabilities, develop proof-of-concept exploits, research security weaknesses
   - **Skills Required**: Reverse engineering, exploit development, programming, vulnerability analysis
   - **Certifications**: OSCE, GXPN, OSEE
   - **Career Progression**: Senior Vulnerability Researcher → Security Research Lead → Security Director
-  - **Average Salary Range**: $90,000 - $160,000
 
 - **Exploit Developer**
   - **Responsibilities**: Develop exploits for vulnerabilities, create custom attack tools, research exploitation techniques
   - **Skills Required**: Advanced programming, reverse engineering, exploit development, assembly language
   - **Certifications**: OSCE, OSEE, GXPN
   - **Career Progression**: Senior Exploit Developer → Research Lead → Security Director
-  - **Average Salary Range**: $100,000 - $170,000
 
 ### Management Roles
 
@@ -1172,28 +1156,24 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Skills Required**: Leadership, risk management, security governance, business acumen, communication
   - **Certifications**: CISSP, CISM, CGEIT
   - **Career Progression**: Terminal position, may move to larger organizations or consulting
-  - **Average Salary Range**: $150,000 - $300,000+
 
 - **Security Manager**
   - **Responsibilities**: Manage security teams and operations, implement security policies, oversee security projects
   - **Skills Required**: Team management, security operations, project management, risk assessment
   - **Certifications**: CISSP, CISM, PMP
   - **Career Progression**: Security Director → CISO
-  - **Average Salary Range**: $110,000 - $160,000
 
 - **Security Consultant**
   - **Responsibilities**: Advise organizations on security matters, conduct assessments, develop security strategies
   - **Skills Required**: Security assessment, consulting, communication, technical expertise
   - **Certifications**: CISSP, CISA, CISM
   - **Career Progression**: Senior Consultant → Principal Consultant → Practice Lead
-  - **Average Salary Range**: $90,000 - $150,000
 
 - **GRC (Governance, Risk, Compliance) Specialist**
   - **Responsibilities**: Ensure compliance with regulations and standards, conduct risk assessments, develop security policies
   - **Skills Required**: Compliance frameworks, risk assessment, policy development, auditing
   - **Certifications**: CISA, CRISC, CISM
   - **Career Progression**: GRC Manager → Director of Compliance → CISO
-  - **Average Salary Range**: $85,000 - $130,000
 
 ### Specialized Roles
 
@@ -1202,28 +1182,24 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Skills Required**: Digital forensics tools, evidence handling, chain of custody, legal knowledge
   - **Certifications**: GCFA, EnCE, CCFE
   - **Career Progression**: Senior Forensic Analyst → Forensic Manager → Director of Forensics
-  - **Average Salary Range**: $80,000 - $120,000
 
 - **Malware Analyst**
   - **Responsibilities**: Analyze malicious software, reverse engineer malware, develop detection methods
   - **Skills Required**: Reverse engineering, programming, malware analysis tools, sandboxing
   - **Certifications**: GREM, GXPN, GCIH
   - **Career Progression**: Senior Malware Analyst → Threat Research Lead → Security Director
-  - **Average Salary Range**: $90,000 - $140,000
 
 - **Cloud Security Specialist**
   - **Responsibilities**: Secure cloud environments, implement cloud security controls, assess cloud security
   - **Skills Required**: Cloud platforms (AWS, Azure, GCP), cloud security tools, DevSecOps
   - **Certifications**: CCSP, AWS Certified Security, Azure Security Engineer
   - **Career Progression**: Senior Cloud Security Specialist → Cloud Security Architect → CISO
-  - **Average Salary Range**: $100,000 - $150,000
 
 - **Application Security Engineer**
   - **Responsibilities**: Secure software applications, conduct code reviews, implement secure coding practices
   - **Skills Required**: Secure coding, application security testing, programming, SDLC
   - **Certifications**: CSSLP, GWAPT, OSWE
   - **Career Progression**: Senior AppSec Engineer → AppSec Architect → Director of Application Security
-  - **Average Salary Range**: $100,000 - $150,000
 
 ## Cybersecurity Communities
 
