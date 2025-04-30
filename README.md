@@ -1384,9 +1384,9 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 Contributions to this roadmap are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or additions.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-contribution`)
-3. Commit your changes (`git commit -m 'Add some amazing contribution'`)
-4. Push to the branch (`git push origin feature/amazing-contribution`)
+2. Create your resource branch (`git checkout -b resource/new_tool`)
+3. Commit your changes (`git commit -m 'Add some resources'`)
+4. Push to the branch (`git push origin resource/new_tool`)
 5. Open a Pull Request
 
 ---
