@@ -394,6 +394,8 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) - Software composition analysis
     - [Snyk](https://snyk.io/) - Open source security platform
     - [Checkmarx](https://www.checkmarx.com/) - Static application security testing
+    - [Vulert](https://www.vulert.com)- Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+
   - **Practical Exercises**:
     - Review code for security vulnerabilities
     - Implement secure authentication and authorization
