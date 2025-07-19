@@ -79,6 +79,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - [Practical Networking](https://www.practicalnetworking.net/)
     - [Wireshark Tutorial (YouTube)](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
     - [Cisco Networking – Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+    - [Cisco Practice Test](https://www.nwexam.com/cisco)
 
   - **Books**:
     - "TCP/IP Illustrated, Volume 1" by W. Richard Stevens
@@ -473,6 +474,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Blue Team Labs Online](https://blueteamlabs.online/)
   - [SANS SEC450: Blue Team Fundamentals](https://www.sans.org/cyber-security-courses/blue-team-fundamentals-security-operations-analysis/)
   - [Cybrary SOC Analyst](https://www.cybrary.it/career-path/soc-analyst)
+  - [Symantec CloudSOC Technical](https://www.certfun.com/broadcom/250-443-symantec-cloudsoc-r2-technical-specialist) 
   - **Books**:
     - "Blue Team Handbook: SOC, SIEM, and Threat Hunting" by Don Murdoch
     - "Security Operations Center: Building, Operating, and Maintaining your SOC" by Joseph Muniz
@@ -811,6 +813,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 ### Online Platforms
 
 - **Learning Platforms**
+  - [Free Practice Test](https://www.edusum.com/)
   - [TryHackMe](https://tryhackme.com/) - Interactive cybersecurity training
   - [HackTheBox](https://www.hackthebox.eu/) - Penetration testing labs
   - [VulnHub](https://www.vulnhub.com/) - Vulnerable virtual machines
