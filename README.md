@@ -981,24 +981,24 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 ### Entry-Level Certifications
 
-- [CompTIA Security+](https://www.comptia.org/certifications/security) - Foundational cybersecurity certification
+- [CompTIA Security+](https://www.edusum.com/comptia/sy0-701-comptia-security) - Foundational cybersecurity certification
   - **Focus Areas**: Network security, threats and vulnerabilities, identity management, cryptography
   - **Prerequisites**: None, but Network+ and 2 years of experience recommended
   - **Exam Format**: 90 questions, 90 minutes, performance-based and multiple choice
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Security specialist, security administrator, security consultant
 
-- [CompTIA Network+](https://www.comptia.org/certifications/network) - Networking fundamentals
+- [CompTIA Network+](https://www.edusum.com/comptia/n10-009-comptia-network) - Networking fundamentals
   - **Focus Areas**: Network concepts, infrastructure, operations, security, troubleshooting
   - **Prerequisites**: None, but A+ and 9-12 months of experience recommended
   - **Exam Format**: 90 questions, 90 minutes, performance-based and multiple choice
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Network administrator, network technician, help desk technician
 
-- [CompTIA A+](https://www.comptia.org/certifications/a) - IT fundamentals
+- [CompTIA A+](https://www.edusum.com/comptia) - IT fundamentals
   - **Focus Areas**: Hardware, operating systems, software troubleshooting, networking, security
   - **Prerequisites**: None, but 9-12 months of experience recommended
-  - **Exam Format**: Two exams: Core 1 and Core 2, 90 minutes each
+  - **Exam Format**: Two exams: [Core 1](https://www.edusum.com/comptia/220-1201-comptia-core-1) and [Core 2](https://www.edusum.com/comptia/220-1202-comptia-core-2), 90 minutes each
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Help desk technician, desktop support analyst, field service technician
 
@@ -1011,21 +1011,21 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 ### Intermediate Certifications
 
-- [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) - Cybersecurity analyst
+- [CompTIA CySA+](https://www.edusum.com/comptia/cs0-003-comptia-cybersecurity-analyst) - Cybersecurity analyst
   - **Focus Areas**: Threat detection, security monitoring, incident response, vulnerability management
   - **Prerequisites**: Network+ and Security+ recommended, 4+ years of experience
   - **Exam Format**: 85 questions, 165 minutes, performance-based and multiple choice
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Security analyst, threat intelligence analyst, security operations center (SOC) analyst
 
-- [CompTIA PenTest+](https://www.comptia.org/certifications/pentest) - Penetration testing
+- [CompTIA PenTest+](https://www.edusum.com/comptia/pt0-003-comptia-pentest) - Penetration testing
   - **Focus Areas**: Planning and scoping, information gathering, vulnerability identification, attacks and exploits, reporting
   - **Prerequisites**: Network+ and Security+ recommended, 3+ years of experience
-  - **Exam Format**: 85 questions, 165 minutes, performance-based and multiple choice
+  - **Exam Format**: 90 questions, 165 minutes, performance-based and multiple choice
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Penetration tester, vulnerability assessment analyst, security consultant
 
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) - Ethical hacking and countermeasures
+- [Certified Ethical Hacker (CEH)](https://www.edusum.com/ec-council/312-50-ec-council-certified-ethical-hacker) - Ethical hacking and countermeasures
   - **Focus Areas**: Ethical hacking methodology, tools, techniques, countermeasures
   - **Prerequisites**: 2 years of experience or official training
   - **Exam Format**: 125 questions, 4 hours, multiple choice
@@ -1055,7 +1055,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Security manager, security architect, CISO, security consultant
 
-- [Certified Information Security Manager (CISM)](https://www.isaca.org/credentialing/cism) - Information security management
+- [Certified Information Security Manager (CISM)](https://www.edusum.com/isaca/cism-isaca-information-security-manager) - Information security management
   - **Focus Areas**: Information security governance, risk management, program development, incident management
   - **Prerequisites**: 5 years of experience in information security management
   - **Exam Format**: 150 questions, 4 hours, multiple choice
@@ -1092,7 +1092,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - **Validity**: Lifetime
   - **Career Paths**: Advanced penetration tester, exploit developer, security researcher
 
-- [Certified Information Systems Auditor (CISA)](https://www.isaca.org/credentialing/cisa) - Information systems auditing
+- [Certified Information Systems Auditor (CISA)](https://www.edusum.com/isaca/cisa-information-systems-auditor) - Information systems auditing
   - **Focus Areas**: IS audit process, governance, systems acquisition, operations, protection of assets
   - **Prerequisites**: 5 years of experience in IS audit, control, or security
   - **Exam Format**: 150 questions, 4 hours, multiple choice
