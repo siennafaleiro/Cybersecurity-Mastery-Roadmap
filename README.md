@@ -813,7 +813,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 ### Online Platforms
 
 - **Learning Platforms**
-  - [Free Practice Test](https://www.edusum.com/)
+  - [Edusum](https://www.edusum.com/) - Free Practice Test
   - [TryHackMe](https://tryhackme.com/) - Interactive cybersecurity training
   - [HackTheBox](https://www.hackthebox.eu/) - Penetration testing labs
   - [VulnHub](https://www.vulnhub.com/) - Vulnerable virtual machines
